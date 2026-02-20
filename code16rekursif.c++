@@ -3,7 +3,7 @@ using namespace std;
 
 int rekursif(int n){
     if (n > 0)
-    cout << "Halo" << endl;
+    cout << "Halo0" << endl;
     n--;
     rekursif(n);
 }
